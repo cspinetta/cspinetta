@@ -8,4 +8,4 @@ My background is rooted in high-throughput backend systems and fault-tolerant in
 
 Outside of day-to-day production work, I’m investing in deeper cryptography fundamentals and exploring privacy-preserving and zero-knowledge techniques.
 
-I occasionally write about lessons learned from building resilient distributed systems: https://substack.com/@cspinetta
+I occasionally write about lessons learned from building resilient distributed systems: [https://substack.com/@cspinetta](https://cspinetta.substack.com/)
